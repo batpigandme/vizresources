@@ -8,10 +8,10 @@
 # Site settings
 title: Data Visualization Resources
 email: mara.averick@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description:
   Some tutorials and resources for data visualization.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://batpigandme.github.io/vizresources/" # the base hostname & protocol for your site
+ # the base hostname & protocol for your site
 twitter_username: dataandme
 github_username:  batpigandme
 
